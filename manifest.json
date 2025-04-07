@@ -1,7 +1,7 @@
 {
     "name": "MattakuPack",
-    "version_number": "1.0.3",
-    "website_url": "https://github.com/thunderstore-io",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/MattakuNoYami/REPO_MattakuPack",
     "description": "Модпак от Mattaku",
     "dependencies": [
         "Russian_kid-RU_REPEREVOD_RUSSIANKID-2.5.0",
